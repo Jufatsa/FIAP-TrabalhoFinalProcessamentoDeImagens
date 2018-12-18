@@ -1,3 +1,4 @@
+# FIAP-TrabalhoFinalProcessamentoDeImagens
 Neste repositório está o trabalho final da disciplina de "Processamento de Imagens", realizado no MBA da Inteligencia Artificial na FIAP.
 
 Utilizamos o Jupyter Notebook para processamentos e bibliotecas externas para captura e processamento das imagens.
